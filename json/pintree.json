@@ -87,14 +87,13 @@
         "title": "iKuuuVPN最新域名 2022-08-18",
         "icon": "https://logo.clearbit.com/ikuuu.club",
         "url": "https://ikuuu.club/"
-      },
-      {
-        "type": "link",
-        "addDate": 1671582201793,
-        "title": "最好用的VPN",
-        "icon": "https://logo.clearbit.com/panel.vp1.best",
-        "url": "https://panel.vp1.best/#/register"
       }
     ]
+  },
+  {
+    "type": "folder",
+    "addDate": 1435772353795,
+    "title": "其他书签",
+    "children": []
   }
 ]
